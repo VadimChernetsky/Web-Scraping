@@ -71,7 +71,7 @@ with open("phones_dict.json", 'w', encoding='utf-8') as file:
     json.dump(phones_dict_2, file, indent=4, ensure_ascii=False)
 
 
-# xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 
 
 
